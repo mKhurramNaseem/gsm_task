@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433855990893",
+    "project_id": "fir-realm-51fa3",
+    "storage_bucket": "fir-realm-51fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433855990893:android:e786f09211c16232e2c364",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_realm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqx1bgkCw1fc7qrEZVxjzaQKFL7M1ecc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433855990893:android:273490856ed449aae2c364",
+        "android_client_info": {
+          "package_name": "com.example.gsm_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqx1bgkCw1fc7qrEZVxjzaQKFL7M1ecc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
